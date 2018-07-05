@@ -4,6 +4,7 @@ core = 7.x
 package = Gronbib
 project = gronbib
 dependencies[] = ding_frontend
+dependencies[] = ding_language
 stylesheets[all][] = css/gronbib_frontend.css
 features[ctools][] = page_manager:pages_default:1
 features[ctools][] = strongarm:strongarm:1
