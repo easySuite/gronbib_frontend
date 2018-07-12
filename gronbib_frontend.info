@@ -1,6 +1,7 @@
 name = Gronbib Frontend
 description = Gronbib frontend changes over default easySuite
 core = 7.x
+version = 7.x-4.2.1
 package = Gronbib
 project = gronbib
 dependencies[] = ding_frontend
